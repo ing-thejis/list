@@ -1,3 +1,3 @@
-module github.com/thejis/go-lsq/list
+module github.com/ing-thejis/list
 
 go 1.14
