@@ -27,7 +27,7 @@ package main
 
 import(
 	"fmt"
-	"github.com/thejis/go-lsq/list"
+	"github.com/ing-thejis/list"
 )
 
 func main(){
