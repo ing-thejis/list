@@ -43,3 +43,6 @@ func main(){
 
 # Autor
 ***The JIS*** <ing.jesithgarcia@gmail.com>
+
+## Agradecimientos 
+Luis Joyanes & Ignacio Zahonero por su libro **Estructura de datos en C++**
