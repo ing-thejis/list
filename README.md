@@ -34,7 +34,7 @@ func main(){
 	lista := list.NewList() //Crea una lista nueva y vacia
 	lista.Insert(1) //Inserta elementos a la lista de cualquier tipo (int, string, struct, etc)
 	lista.Insert(2)
-  lista.Insert(3)
+  	lista.Insert(3)
 	lista.Show()  //muestra elementos de la lista
 	fmt.Println(lista.Search(2))  //busca e impreme en pantalla el elemento de valor 2 de la lista
 	lista.Remove(3) //Remueve o elimina el elementos con valor 3 de la lista
